@@ -1,0 +1,4 @@
+pmid,title,year,compound_name,modality,target_gene,model_system,toxicity_mentioned
+10000001,CRISPR base editing in hematopoietic cells,2023,,gene_therapy,BCL11A,primary CD34+ cells,False
+10000002,Kinase inhibitor selectivity in public panels,2022,dasatinib,small_molecule,ABL1,cell line panel,True
+10000003,Drug-induced liver injury mechanisms,2024,acetaminophen,small_molecule,NFE2L2,hepatocyte culture,True
