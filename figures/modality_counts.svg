@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="430" viewBox="0 0 760 430">
-    <rect width="100%" height="100%" fill="#ffffff"/>
-    <text x="380.0" y="28" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700">Extracted modality counts</text>
-    <line x1="80" y1="55" x2="80" y2="360" stroke="#333"/>
-    <line x1="80" y1="360" x2="740" y2="360" stroke="#333"/>
-    <text x="380.0" y="425" text-anchor="middle" font-family="Arial" font-size="14">Extracted therapeutic modality</text>
-    <text x="18" y="215.0" text-anchor="middle" font-family="Arial" font-size="14" transform="rotate(-90 18,215.0)">Number of abstracts</text>
-    <text x="80" y="39" font-family="Arial" font-size="12" fill="#555">Demo extraction table from public-literature topics</text>
-    <rect x="128.8" y="207.5" width="227.5" height="152.5" fill="#2c7fb8"/><text x="242.5" y="201.5" font-size="11" text-anchor="middle" font-family="Arial">1</text><text x="242.5" y="395" font-size="12" text-anchor="middle" transform="rotate(35 242.5,395)">gene therapy</text><rect x="453.8" y="55.0" width="227.5" height="305.0" fill="#2c7fb8"/><text x="567.5" y="49.0" font-size="11" text-anchor="middle" font-family="Arial">2</text><text x="567.5" y="395" font-size="12" text-anchor="middle" transform="rotate(35 567.5,395)">small molecule</text>
-    </svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="460" viewBox="0 0 840 460">
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="420.0" y="32" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700">PubMed DILI mechanism keyword counts</text>
+<text x="92" y="42" font-family="Arial" font-size="12" fill="#555">NCBI PubMed E-utilities query: drug induced liver injury mechanism</text>
+<line x1="92" y1="58" x2="92" y2="374" stroke="#333"/>
+<line x1="92" y1="374" x2="810" y2="374" stroke="#333"/>
+<text x="420.0" y="452" text-anchor="middle" font-family="Arial" font-size="14">Extracted mechanism keyword</text>
+<text x="20" y="230.0" text-anchor="middle" font-family="Arial" font-size="14" transform="rotate(-90 20,230.0)">Abstract count</text>
+<rect x="113.2" y="58.0" width="75.5" height="316.0" fill="#2868a8"/><text x="151.0" y="52.0" font-family="Arial" font-size="11" text-anchor="middle">11</text><text x="151.0" y="415" font-family="Arial" font-size="11" text-anchor="middle" transform="rotate(35 151.0,415)">not_stated</text><rect x="231.2" y="201.6" width="75.5" height="172.4" fill="#2868a8"/><text x="269.0" y="195.6" font-family="Arial" font-size="11" text-anchor="middle">6</text><text x="269.0" y="415" font-family="Arial" font-size="11" text-anchor="middle" transform="rotate(35 269.0,415)">immune</text><rect x="349.2" y="230.4" width="75.5" height="143.6" fill="#2868a8"/><text x="387.0" y="224.4" font-family="Arial" font-size="11" text-anchor="middle">5</text><text x="387.0" y="415" font-family="Arial" font-size="11" text-anchor="middle" transform="rotate(35 387.0,415)">oxidative</text><rect x="467.2" y="230.4" width="75.5" height="143.6" fill="#2868a8"/><text x="505.0" y="224.4" font-family="Arial" font-size="11" text-anchor="middle">5</text><text x="505.0" y="415" font-family="Arial" font-size="11" text-anchor="middle" transform="rotate(35 505.0,415)">mitochond</text><rect x="585.2" y="316.5" width="75.5" height="57.5" fill="#2868a8"/><text x="623.0" y="310.5" font-family="Arial" font-size="11" text-anchor="middle">2</text><text x="623.0" y="415" font-family="Arial" font-size="11" text-anchor="middle" transform="rotate(35 623.0,415)">CYP</text><rect x="703.2" y="345.3" width="75.5" height="28.7" fill="#2868a8"/><text x="741.0" y="339.3" font-family="Arial" font-size="11" text-anchor="middle">1</text><text x="741.0" y="415" font-family="Arial" font-size="11" text-anchor="middle" transform="rotate(35 741.0,415)">bile acid</text>
+</svg>

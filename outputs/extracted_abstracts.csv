@@ -1,4 +1,31 @@
-pmid,title,year,compound_name,modality,target_gene,model_system,toxicity_mentioned
-10000001,CRISPR base editing in hematopoietic cells,2023,,gene_therapy,BCL11A,primary CD34+ cells,False
-10000002,Kinase inhibitor selectivity in public panels,2022,dasatinib,small_molecule,ABL1,cell line panel,True
-10000003,Drug-induced liver injury mechanisms,2024,acetaminophen,small_molecule,NFE2L2,hepatocyte culture,True
+pmid,title,year,compound_or_topic,mechanism_keyword,toxicity_mentioned,abstract_chars
+42418487,"Circulating PEG-indoleamine 2,3-dioxygenase ameliorates diverse inflammatory diseases without toxicity or compromising immunocompetence.",2026,not_stated,immune,True,286
+42406020,Xenobiotics Induced Liver Toxicity.,2026,not_stated,oxidative,True,1125
+42403686,"Methotrexate-induced hepatotoxicity-mechanism, clinical cases and treatment approaches.",2026,not_stated,mitochond,True,2570
+42403425,Environmental shaping of tolerance failure in autoimmune liver diseases: a phenotype-specific framework with primary biliary cholangitis as the strongest model.,2026,not_stated,immune,True,1257
+42403312,A Systematic Literature Review on Methotrexate Hepatotoxicity in Psoriasis Management: Preconceived Notion or Real Threat?,2026,not_stated,not_stated,True,1616
+42402720,Microtubule-Targeting Drugs Induce Mesenchymal-Epithelial Transition in Hepatic Stellate Cells.,2026,not_stated,not_stated,True,2497
+42400303,Adeno-Associated Virus Gene Therapy for Spinal Muscular Atrophy Induces Hepatotoxicity via Cytokine and Macrophage Activation.,2026,not_stated,immune,True,1187
+42397441,Silibinin promotes hepatocyte proliferation through PINK1/Parkin-mediated mitophagy to alleviate acetaminophen-induced liver injury.,2026,acetaminophen,mitochond,True,2742
+42396641,,2026,not_stated,not_stated,False,0
+42395639,PPARα activation alleviates lithocholic acid-induced liver injury by inhibiting pyroptosis.,2026,not_stated,not_stated,True,1623
+42395638,"From bench to bedside: Molecular mechanisms, diagnostic tools, and therapeutic strategies in liver fibrosis.",2026,not_stated,not_stated,True,1424
+42395007,Korean red ginseng extract ameliorates high-fat diet-induced hyperlipidemia by modulating the gut microbiota-liver metabolic axis.,2026,not_stated,immune,True,1814
+42393902,Expression of IL-35 in the Prophase of Liver Failure and its Immune Regulatory Interaction with Glucocorticoids.,2026,not_stated,immune,True,2267
+42392746,"[Anti-fibrotic effects of Prismatomeris tetrandra ethyl acetate fraction: chemical characterization, bioinformatics analysis, and in vivo validation].",2026,not_stated,oxidative,True,2259
+42392718,[Effects and mechanisms of hesperetin in attenuating alcoholic liver injury by targeting mitochondria to regulate hepatocyte pyroptosis].,2026,not_stated,mitochond,True,3055
+42391699,A novel borondifluoro indolenine-functionalized red-shift ratiometric fluorescent probe for detection of hypochlorous acid in drug-induced liver injury.,2026,not_stated,oxidative,True,372
+42389440,Immunoglobulin κ drives liver regeneration by stabilizing MYLK to maintain cytoskeletal integrity and promote hepatocyte proliferation.,2026,acetaminophen,not_stated,True,2156
+42381381,Wedelactone-loaded exosomes for sepsis-induced liver injury: a novel therapeutic strategy.,2026,not_stated,oxidative,True,1857
+42376399,Hepatoprotective effect of dipyridamole against cyclophosphamide-induced hepatotoxicity in rats.,2026,not_stated,oxidative,True,1722
+42375150,Potential Hepatoprotective Effects of Adenosine Triphosphate Against Olaparib-Induced Oxidative Liver Injury: An Experimental Rat Model.,2026,not_stated,mitochond,True,2122
+42373439,[Dietary serine supplementation inhibits the hepatic macrophage AKT/mTOR pathway and improves primary biliary cholangitis].,2026,not_stated,not_stated,False,1
+42372384,Application of HepaSH cells for predicting cholestatic drug-induced liver injury via bile acid-dependent toxicity assay.,2026,not_stated,bile acid,True,1425
+42371811,Protection of Islet Beta Cells from Iron Overload-Induced Injury by Long Non-Coding RNA Maternally Expressed Gene 3.,2026,not_stated,not_stated,True,1887
+42367518,"Avacopan-Associated Hepatotoxicity: Clinical Signal, Liver Injury Patterns, and Plausible Mechanisms.",2026,not_stated,CYP,True,2606
+42366650,Lipocalin-2 Restores Mitochondrial and Antioxidant Adaptation in a Strain-Specific Manner During LPS Induced Sepsis.,2026,not_stated,mitochond,True,1877
+42365423,"A comprehensive review on chemical structure, quality control, pharmacological effects, and structure-activity relationship of saponins from Zhuzishen ().",2026,not_stated,not_stated,False,11
+42364655,Rarely reported cases of hepatotoxicity associated with turmeric- and curcuminoid-containing dietary supplements: a comprehensive review by USP.,2026,not_stated,immune,True,1408
+42364637,"The effects of T-2 toxin on hepatic cytochrome P450 and carboxylesterase enzymes in mice: Evidence as changes in their expression, activity, and transcriptomic profiles.",2026,not_stated,CYP,True,1721
+42361759,Natural small molecule evodiamine alleviates liver fibrosis by targeting the ANXA2-p110α axis in hepatic stellate cells.,2026,not_stated,not_stated,True,1703
+42358784,Concurrent Evaluation of Liver and Kidney Function by NIR-II,2026,not_stated,not_stated,False,288
